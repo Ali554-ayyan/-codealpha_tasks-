@@ -1,5 +1,3 @@
-You can customize the README to reflect the tools you used:
-
 Hangman Game
 
 Overview
